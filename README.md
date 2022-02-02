@@ -1,3 +1,2 @@
 hoge
 wakuwaku
-nanachan
